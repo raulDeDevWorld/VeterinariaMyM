@@ -15,7 +15,7 @@ export default function RootLayout({ children }) {
         <meta name="theme-color" content="#0090A8" />
         <meta name="msapplication-navbutton-color" content="#0090A8" />
         <meta name="apple-mobile-web-app-status-bar-style" content="#0090A8" />
-        <meta name="description" content="Servicios Odotologicos" />
+        <meta name="description" content="Servicios veterianarios y alimento para mascotas" />
         <meta name="keywords" content="Veterinaria MYM" />
         <meta name="author" content="Veterinaria MYM" />
         <title>Veterinaria MYM</title>
