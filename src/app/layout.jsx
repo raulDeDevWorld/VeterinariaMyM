@@ -16,9 +16,9 @@ export default function RootLayout({ children }) {
         <meta name="msapplication-navbutton-color" content="#0090A8" />
         <meta name="apple-mobile-web-app-status-bar-style" content="#0090A8" />
         <meta name="description" content="Servicios Odotologicos" />
-        <meta name="keywords" content="Dental House" />
-        <meta name="author" content="Dental House" />
-        <title>Dental House</title>
+        <meta name="keywords" content="Veterinaria MYM" />
+        <meta name="author" content="Veterinaria MYM" />
+        <title>Veterinaria MYM</title>
       </head>
       <body className={`${inter.className} bg-white`}>
       <UserProvider>
